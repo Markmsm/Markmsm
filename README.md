@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm a back-end developer, i like to work with JavaScript and Java.
+- :student: Nowadays i'm learning about Docker and Kubernets.
+
 <!--
 **Markmsm/Markmsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
