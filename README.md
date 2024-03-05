@@ -27,14 +27,12 @@ I'm a back-end developer, i like to work with JavaScript and Java.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Markmsm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markmsm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Markmsm&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Markmsm&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!--
 **Markmsm/Markmsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
