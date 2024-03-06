@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a back-end developer, i like to work with JavaScript and Java.
+💪💻 I'm a back-end developer, i like to work with JavaScript and Java.
 <br>
 🧑‍🎓 Nowadays i'm learning about Docker and Kubernets.
 <br>
