@@ -4,9 +4,7 @@
 🧑‍🎓 Nowadays i'm learning about Docker and Kubernets.
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&size=18&pause=1000&color=CDCDCD&random=false&width=435&height=30&lines=Connect+with+me+on+LinkedIn%3A" alt="Typing SVG" /></a>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Darumadrop+One&size=18&pause=1000&color=CDCDCD&random=false&width=435&height=30&lines=Connect+with+me+on+LinkedIn%3A" alt="Typing SVG" />
 <p align="left">
   <a href="http://www.linkedin.com/in/mark-munari" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
@@ -27,10 +25,10 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Markmsm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markmsm&theme=dracula&layout=donut&langs_count=8)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Markmsm&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=Markmsm&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
